@@ -1,0 +1,37 @@
+1.justify-content-:
+The justify-content property aligns the flexible container's items.
+ when the items do not use all available space on the main-axis (horizontally).
+ 
+ 2.list-style-:
+ list style property is shorthand property.
+ If one of the values are missing, the default value for that property will be used.
+
+ 3.Flex-:
+ The flex property is a shorthand property for:
+flex-grow-A number specifying how much the item will grow relative to the rest of the flexible item
+flex-shrink-A number specifying how much the item will shrink relative to the rest of the flexible items
+flex-basis-The length of the item. Legal values: "auto", "inherit",
+ or a number followed by "%", "px", "em" or any other length unit
+The flex property sets the flexible length on flexible items.
+
+4.transition-:CSS transitions allows you to change property values smoothly, over a given duration.
+
+ease - specifies a transition effect with a slow start, then fast, then end slowly (this is default)
+linear - specifies a transition effect with the same speed from start to end
+ease-in - specifies a transition effect with a slow start
+ease-out - specifies a transition effect with a slow end
+ease-in-out - specifies a transition effect with a slow start and end
+
+5.line-height-:
+The line-height property specifies the height of a line.
+
+Note: Negative values are not allowed.
+
+
+
+6.article.-:
+The <article> tag specifies independent, self-contained content.
+An article should make sense on 
+its own and it should be possible to distribute it independently from the rest of the site.
+ 7 . Position :realtive -:
+ 8 Position aboslute:-
